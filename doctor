@@ -4552,7 +4552,7 @@
           <div class="doctor-img-bg"></div>
           <div class="doctor-img"
             style="padding: 0; overflow: hidden; display: flex; align-items: center; justify-content: center; background: none; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
-            <img src="../../doctor.png" alt="Dr. Arjun Ramesh"
+            <img src="doctor.png" alt="Dr. Arjun Ramesh"
               style="width: 100%; height: 100%; object-fit: cover; object-position: top; transition: transform 0.5s ease; border-radius: inherit;"
               onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'">
           </div>
